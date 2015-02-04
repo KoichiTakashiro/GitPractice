@@ -6,3 +6,6 @@ Hello World
 こっちはmaster
 こっちはdevelop
 >>>>>>> develop
+こんにちは赤ちゃん
+HTML
+勉強
